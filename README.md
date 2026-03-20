@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>daksh</h1>
+<h1>Daksh | Owner Of VantX</h1>
 <p><i>learning • building • evolving</i></p>
 
 <br/>
