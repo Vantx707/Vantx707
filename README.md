@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vantx707/Vantx707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>daksh</h1>
+<p><i>learning • building • evolving</i></p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+high school developer from india 🇮🇳 <br/>
+exploring tech & improving daily <br/>
+javascript • python • html • css • node.js <br/>
+windows • linux (garuda / debian) <br/>
+hindi • english
+</p>
+
+<br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1462076060148695304?theme=dark)](https://discord.com/users/1462076060148695304)
+
+<br/>
+
+<sub>still learning. still building.</sub>
+
+</div>
